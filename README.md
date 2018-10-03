@@ -1,0 +1,2 @@
+# apd
+Algoritmi paraleli distribuiti
